@@ -79,7 +79,7 @@ As Discord server administrator, you have right to:
 
 ## Changes to this Privacy Policy
 
-We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at https://github.com/Xg127/CirnoBot/blob/master/PRIVACY.md.
+We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at https://github.com/xg127/cirno-ai/blob/master/PRIVACY.md.
 
 Before we make changes to this policy, we will provide notice of the changes by updating the "Last Updated" date at the top of this policy. If the changes are significant, we may provide additional notice, such as sending a message to the Cirno Bot channels you use, or by displaying a prominent notice within Cirno Bot.
 
