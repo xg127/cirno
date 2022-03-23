@@ -15,6 +15,7 @@ We may also collect information about your use of our services, such as the date
 The information we store about you includes:
 
 - Your user ID
+- For Premium users: Discord Server IDs of your choice to provide Premium features
 
 If you're an administrator of a Discord server that uses Cirno Bot, we do not store any information about your server.
 
