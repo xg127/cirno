@@ -105,6 +105,6 @@ Feel free to join our Discord server to get notified about changes to this Priva
 
 If you have any questions about this Privacy Policy, or if you would like to exercise your rights, please contact us over:
 
-Discord server: https://discord.gg/6x6wbaJFYw
-Discord: Xg127#4738 (ID=893581523310219305)
-Email: probablyalive@onionmail.org
+- Discord server: https://discord.gg/6x6wbaJFYw
+- Discord: Xg127#4738 (ID=893581523310219305)
+- Email: probablyalive@onionmail.org
