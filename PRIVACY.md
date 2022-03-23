@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last Updated: 2022-03-23 16:58 UTC
+Last Updated: 2022-03-23 17:03 UTC
 
 This Privacy Policy describes how your personal information is collected and used when you use Cirno Bot, accessible through Discord.
 
