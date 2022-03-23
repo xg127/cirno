@@ -39,7 +39,7 @@ We may temporarily store and analyze the content of your messages or commands in
 
 ## Note for administrators
 
-If you are an administrator of a Discord server that uses Cirno Bot, inform your users that Cirno Bot will collect and store information about them, it is your responsibility to inform your users of this Privacy Policy.
+If you are an administrator of a Discord server that uses Cirno Bot, inform your users that Cirno Bot will collect and store information about them, it is your responsibility to inform your users of this Privacy Policy and how to opt out.
 
 ## How we use your information
 
