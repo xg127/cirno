@@ -1,1 +1,1 @@
-# cirno-ai
+# Cirno
